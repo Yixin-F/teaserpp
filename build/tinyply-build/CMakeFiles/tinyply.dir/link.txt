@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp -O3 -DNDEBUG -shared -Wl,-soname,libtinyply.so -o libtinyply.so CMakeFiles/tinyply.dir/source/tinyply.cpp.o 

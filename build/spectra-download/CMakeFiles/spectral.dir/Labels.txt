@@ -1,0 +1,14 @@
+# Target labels
+ spectral
+# Source files and their labels
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/CMakeFiles/spectral
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/CMakeFiles/spectral.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/CMakeFiles/spectral-complete.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-install.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-mkdir.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-download.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-update.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-patch.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-configure.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-build.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-test.rule

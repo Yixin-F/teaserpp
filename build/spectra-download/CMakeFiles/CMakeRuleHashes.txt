@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+27fe2fa9c95f6ffb285f4ec4eb5ddf9e CMakeFiles/spectral
+5c0d6ebb749c7dead6edbdd4237250d1 CMakeFiles/spectral-complete
+91c76e5ef4ed47ecaadd3e5a920888b5 spectral-prefix/src/spectral-stamp/spectral-build
+d3288923fc9b20599dab08c0370514c8 spectral-prefix/src/spectral-stamp/spectral-configure
+22ea0b9225582548ddb475444b72d897 spectral-prefix/src/spectral-stamp/spectral-download
+14caacfd4a50c32c9467b7576036fa9a spectral-prefix/src/spectral-stamp/spectral-install
+b1cad7fad483edc9f1725e07318cc814 spectral-prefix/src/spectral-stamp/spectral-mkdir
+561f676acdcaf1ca2357bec492e3e72a spectral-prefix/src/spectral-stamp/spectral-patch
+84a65102e1fd4501b609890097129940 spectral-prefix/src/spectral-stamp/spectral-test
+efaa729780157cd39fb25c98c839298d spectral-prefix/src/spectral-stamp/spectral-update

@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/CMakeFiles/spectral"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/CMakeFiles/spectral.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/CMakeFiles/spectral-complete.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-install.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-mkdir.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-download.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-update.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-patch.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-configure.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-build.rule"
+		},
+		{
+			"file" : "/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/spectra-download/spectral-prefix/src/spectral-stamp/spectral-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"spectral"
+		],
+		"name" : "spectral"
+	}
+}

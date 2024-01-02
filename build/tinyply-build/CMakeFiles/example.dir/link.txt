@@ -1,0 +1,1 @@
+/usr/bin/c++  -fopenmp -O3 -DNDEBUG -rdynamic CMakeFiles/example.dir/source/example.cpp.o -o example  -Wl,-rpath,/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/tinyply-build libtinyply.so 

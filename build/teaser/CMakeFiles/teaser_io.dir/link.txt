@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fopenmp -O3 -DNDEBUG -shared -Wl,-soname,libteaser_io.so -o libteaser_io.so CMakeFiles/teaser_io.dir/src/ply_io.cc.o  -Wl,-rpath,/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/tinyply-build: ../tinyply-build/libtinyply.so 

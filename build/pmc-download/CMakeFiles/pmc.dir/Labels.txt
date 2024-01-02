@@ -1,0 +1,14 @@
+# Target labels
+ pmc
+# Source files and their labels
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/CMakeFiles/pmc
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/CMakeFiles/pmc.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/CMakeFiles/pmc-complete.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-install.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-mkdir.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-download.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-update.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-patch.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-configure.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-build.rule
+/home/fyx/fastlio2/src/YOLO-fast-lio-sam/ThirdParty/TEASER-plusplus/build/pmc-download/pmc-prefix/src/pmc-stamp/pmc-test.rule

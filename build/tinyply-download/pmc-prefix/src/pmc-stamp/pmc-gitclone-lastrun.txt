@@ -1,0 +1,3 @@
+repository='https://github.com/jingnanshi/tinyply.git'
+module=''
+tag='origin'
